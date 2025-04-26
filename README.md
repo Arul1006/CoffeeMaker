@@ -12,5 +12,4 @@ A simple yet powerful Python-based application that simulates a coffee maker. De
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Arul1006/CoffeeMaker.git
